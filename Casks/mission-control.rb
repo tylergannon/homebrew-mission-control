@@ -1,6 +1,6 @@
 cask "mission-control" do
-  version "0.1.1"
-  sha256 "b5ed8063bea821c3a1b3206082c28acfcad3d03199630fd787ad75c42bd384db"
+  version "0.1.2"
+  sha256 "fc293df98a9d29d641e384055f2933ac41d93db9db32e917ce639dc9dd545ac6"
 
   url "https://github.com/tylergannon/homebrew-mission-control/releases/download/v#{version}/Mission-Control-#{version}-macos-arm64.dmg"
   name "Mission Control"
